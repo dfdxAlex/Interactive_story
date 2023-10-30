@@ -1,0 +1,19 @@
+{
+    "name": "dfdx/interactive_book",
+    "description": "interactive book - PIT project",
+    "type": "project",
+    "license": "open source",
+    "autoload": {
+        "psr-4": {
+            "Dfdx\\InteractiveBook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oleksandr-ishchuk",
+            "email": "alexmway@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

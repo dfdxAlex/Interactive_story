@@ -1,0 +1,16 @@
+.select-lang {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+      
+}
+
+p {
+    display: block;
+    width: 300px;
+}
+
+body {
+    background-image: url("../images/write_book.jpg");
+}

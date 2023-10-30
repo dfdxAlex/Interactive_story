@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-image: url("../images/what_is_you_name.jpg");
+    overflow: hidden;
+}
+
+[class="alert alert-danger"] {
+    height: 60px;
+}
+
+
