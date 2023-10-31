@@ -1,0 +1,11 @@
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-image: url("../images/i_am_lost.jpg");
+    /* overflow: hidden; */
+}
+
+a {
+    margin-top: 10px;
+}
+
