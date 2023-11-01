@@ -1,9 +1,0 @@
-#Wersja PHP zmieniona: 2023-08-14 09:54:32
-AddHandler application/x-httpd-php81 php 
-
-RewriteBase /
-AddDefaultCharset UTF-8
-
-DirectoryIndex amatorDed/public/index.html
-
-
