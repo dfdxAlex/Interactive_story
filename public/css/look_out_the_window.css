@@ -1,0 +1,10 @@
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-image: url("../images/go_knock_2.jpg");
+    /* overflow: hidden; */
+}
+a {
+    margin-top: 10px;
+}
+
