@@ -8,6 +8,30 @@ body {
     background-attachment: fixed; 
 }
 
+/* Аккордион */
+.accordion-item,
+.accordion-button,
+.accordion-button:focus,
+.accordion-button:not(.collapsed),
+.btn-primary {
+    background-color: rgba(255, 255, 255, 0.8);
+    /* color: rgba(0, 0, 0, 1); */
+    font-size: 20px;
+    color:brown;
+  }
+
+.accordion-button,
+.accordion-button:focus,
+.accordion-button:not(.collapsed)  {
+    background-color: rgba(255, 255, 255, 0.2);
+    font-weight: bold;
+}
+
+.btn-primary {
+    font-weight: bold;
+}
+
+
 /*меню смены языка*/
 .lang-menu {
     position: fixed;
