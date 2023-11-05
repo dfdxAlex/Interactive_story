@@ -16,7 +16,7 @@ body {
 .btn-primary {
     background-color: rgba(255, 255, 255, 0.8);
     font-size: 20px;
-    color:brown;
+    color:rgb(19, 73, 28);
   }
 
 .accordion-button,
@@ -33,7 +33,6 @@ body {
 
 /*меню смены языка*/
 .lang-menu {
-    
     position: fixed;
     top:0;
     left: 0;
