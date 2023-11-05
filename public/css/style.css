@@ -7,3 +7,28 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed; 
 }
+
+/*меню смены языка*/
+.lang-menu {
+    position: fixed;
+    top:0;
+    left: 0;
+}
+
+ .img-lang {
+    height: 15px;
+}
+
+.dropdown-menu {
+    min-width: 44px;
+    width: 44px;
+}
+
+.dropdown-item{
+    padding: 10px;
+}
+
+.btn {
+    padding: 5px;
+}
+/******************************************************/
