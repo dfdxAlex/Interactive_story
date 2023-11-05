@@ -1,0 +1,9 @@
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-image: url("../images/level8.jpg");
+    /* overflow: hidden; */
+}
+a {
+    margin-top: 10px;
+}
