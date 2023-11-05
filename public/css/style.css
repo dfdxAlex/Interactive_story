@@ -57,7 +57,8 @@ body {
 }
 
 .btn-secondary, 
-.btn-secondary:focus {
+.btn-secondary:focus,
+.btn-secondary:hover {
     background-color: rgba(255, 255, 255, 0.2);
 } 
 /******************************************************/
