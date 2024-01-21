@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  adventure:
+    image: alexmway78224/adwentur
+    ports:
+      - "90:90"
